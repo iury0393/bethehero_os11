@@ -29,8 +29,6 @@ This project includes: API / Web App / Mobile App
     <li>NodeJs</li>
     <li>Typescript</li>
 </ul>
-<h2>Figma</h2>
-<p>Design: <a href="https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)" target="__blank">Project Link</a></p>
 
 ## Run Project
 

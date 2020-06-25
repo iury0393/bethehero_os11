@@ -27,7 +27,6 @@ This project includes: API / Web App / Mobile App
     <li>React</li>
     <li>React Native</li>
     <li>NodeJs</li>
-    <li>Typescript</li>
 </ul>
 
 ## Run Project
